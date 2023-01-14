@@ -1,0 +1,13 @@
+What is Different between HTTP1.1 and HTTP 2 ?
+
+HTTP 1.1  :    
+       * It work on Textual Formet 
+       * There is the Head of line Blocking the blocks all the request behind it until it does not get its all resourses
+       * It Shows request resourses for getting multiple Pages 
+       * It Compress Data by Itself
+
+HTTP 2:
+      * It Work on binary protocol
+      * One TCP connection is required for all multiple request
+      * PUSH from by servers collect all the multiple Pages.
+      * It uses HACK for Data Compression.

@@ -1,0 +1,10 @@
+Write a blog about Object and Internal Representation of the JavaScripts?
+
+         *  The Object is Quite Different for the Primitve Data Types
+         *  Each Object contains the Primitive Datatypes 
+         *  And the Object will be in the formet of {'Key':'value'}
+         *  It will be not followed in the Index form and will not nbe in the formet of Array.
+         *  Key value will be unique and value will be differ.
+         *  Key should be in form of String,Number,Boolean, null and Undefined.
+         *  Syntax for geting key ---> Object.keys(obj).
+         *  Synatx for getting value --->Object.Values(obj).
